@@ -1,0 +1,262 @@
+<html>
+
+<head>
+
+<title>
+HTML Table
+</title>
+
+
+</head>
+
+<body>
+<h1>ACTIVITY#7</h1>
+
+<div align=center>
+<h2>ict strand class schedule<h2>
+<h2>GRADE 11-ICT/CP1A<h2>
+</div>
+</style>
+<font style="font-family: Helvetica">
+<h2 align=center>---M O N D A Y---</h2>
+</font>
+<table align=center border="10" cellpadding="10" cellspacing="1">
+
+
+
+<tr>
+<th width="600px">S U B J E C T S</th>
+<th>T I M E</th>
+<th>T E A C H E R</th>
+</tr>
+
+<tr>
+<td bgcolor="#FF7F7F" >HOMEROOM</td>
+<td>6:30 - 7:00 A.M</td>
+<td>Angela Espiritu</td>
+</tr>
+
+<tr>
+<td bgcolor="#FF7F7F" >COMPUTER PROGRAMMING1</td>
+<td>7:00 - 9:30 A.M</td>
+<td>Larry Jun Pagad</td>
+</tr>
+
+<tr>
+<td>Break</td>
+<td>9:30 - 10:00 A.M</td>
+<td> </td>
+</tr>
+
+<tr>
+<td bgcolor="#FF7F7F">PHYSICAL & EDUCATION1</td>
+<td>10:00 - 11:00 A.M</td>
+<td>Philipnire Coma</td>
+</tr>
+
+<tr>
+<td bgcolor="#FF7F7F" >FILIPINO1</td>
+<td>11:00 - 12:30 P.M</td>
+<td>Marissa Ignacio</td>
+</tr>
+
+</table>
+
+<br>
+
+<font style="font-family: Helvetica">
+<h2 align=center>---T U E S D A Y---</h2>
+</font>
+
+<table align=center border="10" cellpadding="10" cellspacing="1">
+
+<tr>
+<th width="600px">Subjects</th>
+<th>T I M E</th>
+<th>T E A C H E R</th>
+</tr>
+
+<tr>
+<td bgcolor="#FF7F7F" >HOMEROOM</td>
+<td>6:30 - 7:00 A.=M</td>
+<td>Angela Espiritu</td>
+</tr>
+
+<tr>
+<td bgcolor="#FF7F7F" >COMPUTER PROGRAMMING1</td>
+<td>7:00 - 9:30 A.M</td>
+<td>Larry Jun Pagad</td>
+</tr>
+
+<tr>
+<td>Break</td>
+<td>9:30 - 10:00 A.M</td>
+<td> </td>
+</tr>
+
+<tr>
+<td bgcolor="#FF7F7F">ENGLISH1</td>
+<td>10:00 - 11:30 A.M</td>
+<td>Shairra Constantino</td>
+</tr>
+
+<tr>
+<td bgcolor="#FF7F7F" >FILIPINO1</td>
+<td>11:30 - 12:30 P.M</td>
+<td>Marissa Ignacio</td>
+</tr>
+
+</table>
+
+<br>
+
+<font style="font-family:Helvetica">
+<h2 align=center>---W E D N E S D A Y---</h2>
+</font>
+
+<table align=center border="10" cellpadding="10" cellspacing="1">
+
+<tr>
+<th width="600px">Subjects</th>
+<th>Time</th>
+<th>Teachers</th>
+</tr>
+
+<tr>
+<td bgcolor="#FF7F7F" >HOMEROOM</td>
+<td>6:30 - 7:00 A.M</td>
+<td>Angela Espiritu</td>
+</tr>
+
+<tr>
+<td bgcolor="#FF7F7F">PERSONAL DEVELOPMENT</td>
+<td>7:00 - 8:30 A.M</td>
+<td>Antonio Gonzales</td>
+</tr>
+
+<tr>
+<td bgcolor="#FF7F7F">GENMATH</td>
+<td>8:30 - 9:30 A.M</td>
+<td>Jhovie Ann Espeña</td>
+</tr>
+
+<tr>
+<td>Break</td>
+<td>9:30 - 10:00 A.M</td>
+<td> </td>
+</tr>
+
+<tr>
+<td bgcolor="#FF7F7F">ENGLISH1</td>
+<td>10:00 - 11:00 A.M</td>
+<td>Shairra Constantino</td>
+</tr>
+
+<tr>
+<td bgcolor="#FF7F7F" >FILILIPINO2</td>
+<td>11:30 - 12:30 P.M</td>
+<td>Marissa Ignacio</td>
+</tr>
+
+</table>
+
+<br>
+
+
+<font style="font-family: Helvetica">
+<h2 align=center>---T H U R S D A Y---</h2>
+</font>
+
+<table align=center border="10" cellpadding="10" cellspacing="1">
+
+<tr>
+<th width="600px">Subjects</th>
+<th>Time</th>
+<th>Teachers</th>
+</tr>
+
+<tr>
+<td bgcolor="#FF7F7F" >HOMEROOM</td>
+<td>6:30 - 7:00 A.M</td>
+<td>Angela Espiritu</td>
+</tr>
+
+<tr>
+<td bgcolor="#FF7F7F">PERSONAL DEVELOPMENT</td>
+<td>7:00 - 8:00 A.M</td>
+<td>Antonio Gonzales</td>
+</tr>
+
+<tr>
+<td bgcolor="#FF7F7F">GENMATH</td>
+<td>8:00 - 9:30 A.M</td>
+<td>Jhovie Ann Espeña</td>
+</tr>
+
+<tr>
+<td>Break</td>
+<td>9:30 - 10:00 A.M</td>
+<td> </td>
+</tr>
+
+<tr>
+<td bgcolor="#FF7F7F">ENGLISH2</td>
+<td>10:00 - 11:00 A.M</td>
+<td>Shairra Constantino</td>
+</tr>
+
+<tr>
+<td bgcolor="#FF7F7F" >FILIPINO2</td>
+<td>11:00 - 12:30 P.M</td>
+<td>Marissa Ignacio</td>
+</tr>
+
+</table>
+
+<br>
+
+<font style="font-family: Helvetica">
+<h2 align=center>---F R I D A Y---</h2>
+</font>
+
+<table align=center border="10" cellpadding="10" cellspacing="1">
+
+<tr>
+<th width="600px">Subjects</th>
+<th>Time</th>
+<th>Teachers</th>
+</tr>
+
+<tr>
+<td bgcolor="#FF7F7F" >HOMEROOM</td>
+<td>8:00 - 8:30 A.M</td>
+<td>Angela Espiritu</td>
+</tr>
+
+<tr>
+<td bgcolor="#FF7F7F">VALED</td>
+<td>8:30 - 9:30 A.M</td>
+<td>Antonio Gonzales</td>
+</tr>
+
+
+<tr>
+<td>Break</td>
+<td>9:30 - 10:00 A.M</td>
+<td> </td>
+</tr>
+
+<tr>
+<td bgcolor="#FF7F7F">ENGLISH2</td>
+<td>10:00 - 11:30 A.M</td>
+<td>Shairra Constantino</td>
+</tr>
+
+
+
+</table>
+<br>
+<br>1
+</body>
+
+</html>
